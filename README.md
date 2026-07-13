@@ -52,6 +52,16 @@ Each check includes:
 
 ---
 
+## 📥 Download
+
+**[⬇️ Download Free Checklist (Excel)](DeployIQ_Free_Starter_Checklist.xlsx)**
+
+Works with:
+- Microsoft Excel 2019+
+- Microsoft 365
+- Google Sheets
+
+
 ---
 
 ## 🚀 How to Use
