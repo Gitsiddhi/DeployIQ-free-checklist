@@ -6,8 +6,6 @@
 > who want every dashboard to ship clean and
 > actually get used.
 
-![DeployIQ Banner](assets/banner.png)
-
 ---
 
 ## ⚡ The Problem
