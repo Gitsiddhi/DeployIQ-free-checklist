@@ -93,7 +93,7 @@ The full version includes:
 | Bonus modules (Fabric, Copilot) | ❌ | ✅ |
 | Documentation | ❌ | ✅ |
 
-**[🔗 Get DeployIQ Complete System →](https://contra.com/[your-link])**
+**[🔗 Get DeployIQ Complete System →](https://contra.com/products/QgsVVrCb-deploy-iq-power-bi-governance-and-deployment-system)**
 
 Price: $30 one-time | Lifetime minor updates
 
